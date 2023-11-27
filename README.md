@@ -1,3 +1,5 @@
+Github_Layout.png
+
 # Calibration Camera System: point of interest projection with laser and white light
 
 This repository is about a calibration camera system project usin a point-of-interest projection by two devices: A laser pointer and white light project | Degree project of Computer Systems Master by TecNM Campus Misantla
