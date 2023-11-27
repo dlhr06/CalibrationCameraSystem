@@ -17,4 +17,8 @@ The content of the dataset of this degree project is based on the following elem
   2. Camera system of less than 80 cm from the reference plane.
 * Python scripts using digital image processing techniques to obtain the location of points of interest in the 2D coordinate system.
 
+## How to get the content? 📨
+Let's connect! Tell me why and how you will use this content for your future research or college projects about calibration camera or computer vision and let's work together.
 
+ * [Email](dianahr164@gmail.com)
+ * [LinkeInd](https://www.linkedin.com/in/dianalaurahr/)
