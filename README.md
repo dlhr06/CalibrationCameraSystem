@@ -1,4 +1,5 @@
-Github_Layout.png
+
+![Portada](Github_Layout.png)
 
 # Calibration Camera System: point of interest projection with laser and white light
 
