@@ -2,6 +2,6 @@
 
 ## Design of calibration system using laser. 
 
-On image ![Design_Chessboard](Design_Chessboard.png) the elements of the calibration system can be visualized using laser as a projection method.
+In this Figure the elements of the calibration system can be visualized using laser as a projection method. ![Design_Chessboard](Design_Chessboard.png) 
 
 ## Design of calibration system using white light. 
