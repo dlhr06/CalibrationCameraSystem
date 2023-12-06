@@ -1,15 +1,15 @@
 <h1 align="center" id="title">Design of calibration camera system 📷 </h1>
 
 ## Glossary abbreviations on images.  📚
-2. To laser design
-   * DSVL(Vision System Laser Distance)
-   * SVL (Vision System Laser)
-   * DCL (Camera to Laser Distance)
-3. To white ligth projector design
+1. To laser design
+  * DSVL(Vision System Laser Distance)
+  * SVL (Vision System Laser)
+  * DCL (Camera to Laser Distance)
+2. To white ligth projector design
   * DVSP (Vision System Projector Distance)
   * SVP  (Vision System Projector)
   * DCP  (Camera to Projector Distance)
-4. To chessboard design 
+3. To chessboard design 
   * DCC (Camera to Chessboard Distance)
   
 ## Design of calibration system using laser. 
