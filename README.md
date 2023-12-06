@@ -4,7 +4,7 @@
 <h1 align="center" id="title">Calibration Camera System: Point of interest projection with laser and white light 📷 </h1>
 
 
-This repository is about a calibration camera system project usin a point-of-interest projection by two devices: A laser pointer and white light project. This project is a solution of camera calibration system using easily accessible devices and an uncontrolled experimental environment | Degree project Master in Computer Systems by [Instituto Tecnológico Superior de Misantla.](https://misantla.tecnm.mx/). 
+This repository is about a calibration camera system project usin a point-of-interest projection by two devices: A laser pointer and white light project. This project is a solution of camera calibration system using easily accessible devices and an uncontrolled experimental environment | Degree project of Master in Computer Systems by [Instituto Tecnológico Superior de Misantla.](https://misantla.tecnm.mx/). 
 
 ## Allied research institutions 🏫📚
  * [Consejo Nacional de Humanidades Ciencias y Tecnologías (CONAHCYT)](https://conahcyt.mx/)
